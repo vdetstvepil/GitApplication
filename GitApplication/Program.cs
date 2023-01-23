@@ -9,13 +9,16 @@ namespace GitApplication
             
         }
 
-        public static void MatrixA(int w, int h) { }
+        public static void MatrixB(int w, int h)
+        {
+            Console.WriteLine("why");
+        }
 
         public static void PrintMyName()
         {
-            Console.WriteLine("Kislyakov Anton Yurievich");
+            Console.WriteLine("Ivanov Ivan Ivanovich");
             Console.WriteLine("11.4");
-            Console.WriteLine("March, 1");
+            Console.WriteLine("April, 20");
         }
     }
 }
