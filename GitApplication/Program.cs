@@ -9,7 +9,10 @@ namespace GitApplication
             
         }
 
-        public static void MatrixB(int w, int h) { }
+        public static void MatrixB(int w, int h)
+        {
+            Console.WriteLine("why");
+        }
 
         public static void PrintMyName()
         {
