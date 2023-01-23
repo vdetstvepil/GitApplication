@@ -9,13 +9,9 @@ namespace GitApplication
             
         }
 
-        public static void MatrixA(int w, int h) { }
-
-        public static void PrintMyName()
+        public static void MatrixB(int w, int h) 
         {
-            Console.WriteLine("Kislyakov Anton Yurievich");
-            Console.WriteLine("11.4");
-            Console.WriteLine("March, 1");
+            Console.WriteLine("hello");
         }
     }
 }
