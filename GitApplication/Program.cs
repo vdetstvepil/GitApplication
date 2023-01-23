@@ -6,7 +6,16 @@ namespace GitApplication
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
+        }
+
+        public static void MatrixA(int w, int h) { }
+
+        public static void PrintMyName()
+        {
+            Console.WriteLine("Kislyakov Anton Yurievich");
+            Console.WriteLine("11.4");
+            Console.WriteLine("March, 1");
         }
     }
 }
